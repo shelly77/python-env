@@ -1,0 +1,6 @@
+.venv
+target
+src
+.vscode
+projects
+.DS_Store
